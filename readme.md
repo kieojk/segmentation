@@ -65,7 +65,7 @@
   - Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen, *1801*
 - End-to-end Detection-Segmentation Network With ROI Convolution 
   - 2018 <Paper>
-- [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation](https://github.com/XiaohangZhan/mix-and-match/) [[`caffe`]] 
+- [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation](https://github.com/XiaohangZhan/mix-and-match/) [[`caffe`]](https://github.com/XiaohangZhan/mix-and-match/)
   -  Xiaohang Zhan, Ziwei Liu, Ping Luo, Xiaoou Tang, Chen Change Loy, *AAAI/1712*
 - [Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training](https://arxiv.org/abs/1810.07911) [[`mxnet`]](https://github.com/yzou2/cbst)
   - Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training, *ECCV/18*
