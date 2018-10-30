@@ -42,7 +42,8 @@
   - Chen-Wei Xie, Hong-Yu Zhou, Jianxin Wu, *1804*
 - [Fully Convolutional Adaptation Networks for Semantic Segmentation](https://arxiv.org/abs/1804.08286)
   - Yiheng Zhang, Zhaofan Qiu, Ting Yao, Dong Liu, Tao Mei, *CVPR/1804*
-- [A Multi-Layer Approach to Superpixel-based Higher-order Conditional Random Field for Semantic Image Segmentation](https://arxiv.org/abs/1804.02032) - 2018 <Paper>
+- [A Multi-Layer Approach to Superpixel-based Higher-order Conditional Random Field for Semantic Image Segmentation](https://arxiv.org/abs/1804.02032) 
+  - Li Sulimowicz, Ishfaq Ahmad, Alexander Aved, *1804*
 - [Dynamic-structured Semantic Propagation Network](https://arxiv.org/abs/1803.06067) 
   - [Xiaodan Liang](https://lemondan.github.io/publications/), Hongfei Zhou, Eric P. Xing, *CVPR/1803*
 - [ShuffleSeg: Real-time Semantic Segmentation Network](https://arxiv.org/abs/1803.03816) [[`tensorflow`]](https://github.com/MSiam/TFSegmentation)
@@ -53,8 +54,8 @@
   - Tianyi Zhang, Guosheng Lin, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C. Kot, 1803
 - DeepLabV3+:Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation 
   - 2018 - Google <Paper> <Code-Tensorflow> <Code-Karas>
-- Locally Adaptive Learning Loss for Semantic Image Segmentation 
-  - 2018 <Paper>
+- [Locally Adaptive Learning Loss for Semantic Image Segmentation](https://arxiv.org/abs/1802.08290)
+  - Jinjiang Guo, Pengyuan Ren, Aiguo Gu, Jian Xu, Weixin Wu, *1804*
 - [Learning to Adapt Structured Output Space for Semantic Segmentation](https://arxiv.org/abs/1802.10349) [[`pytorch`]](https://github.com/wasidennis/AdaptSegNet)
   - Yi-Hsuan Tsai, W.-C. Hung, S. Schulter, K. Sohn, `Ming-Hsuan Yang`, M. Chandraker, *CVPR spotlight/1802*
 
