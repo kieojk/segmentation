@@ -55,12 +55,12 @@
 - DeepLabV3+:Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation 
   - 2018 - Google <Paper> <Code-Tensorflow> <Code-Karas>
 - [Locally Adaptive Learning Loss for Semantic Image Segmentation](https://arxiv.org/abs/1802.08290)
-  - Jinjiang Guo, Pengyuan Ren, Aiguo Gu, Jian Xu, Weixin Wu, *1804*
+  - Jinjiang Guo, Pengyuan Ren, Aiguo Gu, Jian Xu, Weixin Wu, *1802*
 - [Learning to Adapt Structured Output Space for Semantic Segmentation](https://arxiv.org/abs/1802.10349) [[`pytorch`]](https://github.com/wasidennis/AdaptSegNet)
   - Yi-Hsuan Tsai, W.-C. Hung, S. Schulter, K. Sohn, `Ming-Hsuan Yang`, M. Chandraker, *CVPR spotlight/1802*
 
-- TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation 
-  - 2018 - Kaggle <Paper> <Code-PyTorch> <Kaggle-Carvana Image Masking Challenge>
+- [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746) [[`PyTorch`]](https://github.com/ternaus/TernausNet)
+  - Vladimir Iglovikov, Alexey Shvets, *1801* 
 - Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation 
   - 2018 - Google <Paper>
 - End-to-end Detection-Segmentation Network With ROI Convolution 
