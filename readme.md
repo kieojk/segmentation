@@ -61,8 +61,8 @@
 
 - [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746) [[`PyTorch`]](https://github.com/ternaus/TernausNet)
   - Vladimir Iglovikov, Alexey Shvets, *1801* 
-- Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation 
-  - 2018 - Google <Paper>
+- [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
+  - Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen, *1801*
 - End-to-end Detection-Segmentation Network With ROI Convolution 
   - 2018 <Paper>
 - [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation](https://github.com/XiaohangZhan/mix-and-match/) [[`caffe`]] 
