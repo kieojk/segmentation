@@ -52,8 +52,8 @@
   - Mennatullah Siam, Mostafa Gamal, M. Abdel-Razek, S. Yogamani, M. Jagersand, *ICIP/1803*
 - [Decoupled Spatial Neural Attention for `Weakly Supervised` Semantic Segmentation](https://arxiv.org/abs/1803.02563)
   - Tianyi Zhang, Guosheng Lin, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C. Kot, 1803
-- DeepLabV3+:Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation 
-  - 2018 - Google <Paper> <Code-Tensorflow> <Code-Karas>
+- [DeepLabV3+: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) [[`tensorflow`]](https://github.com/tensorflow/models/tree/master/research/deeplab) [[`keras`]](https://github.com/bonlime/keras-deeplab-v3-plus) [[`pytorch`]](https://github.com/jfzhang95/pytorch-deeplab-xception)
+  - Liang-Chieh Chen, Yukun Zhu, George Papandreou, Florian Schroff, Hartwig Adam, *ECCV/1802*
 - [Locally Adaptive Learning Loss for Semantic Image Segmentation](https://arxiv.org/abs/1802.08290)
   - Jinjiang Guo, Pengyuan Ren, Aiguo Gu, Jian Xu, Weixin Wu, *1802*
 - [Learning to Adapt Structured Output Space for Semantic Segmentation](https://arxiv.org/abs/1802.10349) [[`pytorch`]](https://github.com/wasidennis/AdaptSegNet)
@@ -63,8 +63,8 @@
   - Vladimir Iglovikov, Alexey Shvets, *1801* 
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
   - Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen, *1801*
-- End-to-end Detection-Segmentation Network With ROI Convolution 
-  - 2018 <Paper>
+<!-- - End-to-end Detection-Segmentation Network With ROI Convolution 
+  - 2018 <Paper> -->
 - [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation](https://github.com/XiaohangZhan/mix-and-match/) [[`caffe`]](https://github.com/XiaohangZhan/mix-and-match/)
   -  Xiaohang Zhan, Ziwei Liu, Ping Luo, Xiaoou Tang, Chen Change Loy, *AAAI/1712*
 - [Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training](https://arxiv.org/abs/1810.07911) [[`mxnet`]](https://github.com/yzou2/cbst)
