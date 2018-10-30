@@ -36,7 +36,7 @@
   - Peng Jiang, Fanglin Gu, Yunhai Wang, Changhe Tu, Baoquan Chen, *NIPS/1805*
 - [ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time](https://arxiv.org/abs/1805.04554) [[`keras`]](https://github.com/klickmal/ContextNet)
   - Rudra P K Poudel, Ujwal Bonde, Stephan Liwicki, Christopher Zach, *BMVC/1805*, [[cn]](https://zhangbin0917.github.io/2018/08/31/ContextNet-Exploring-Context-and-Detail-for-Semantic-Segmentation-in-Real-time/)
-- [Learning a Discriminative Feature Network for Semantic Segmentation](https://arxiv.org/abs/1804.09337) [[`pytorch`]](https://github.com/lxtGH/dfn_seg) [[temsorflow]](https://github.com/whitesockcat/Discriminative-Feature-Network)
+- [Learning a Discriminative Feature Network for Semantic Segmentation](https://arxiv.org/abs/1804.09337) [[`pytorch`]](https://github.com/lxtGH/dfn_seg) [[`temsorflow`]](https://github.com/whitesockcat/Discriminative-Feature-Network)
   - Changqian Yu, Jingbo Wang, Chao Peng, Changxin Gao, Gang Yu, Nong Sang, *CVPR/1804*
 - [Vortex Pooling: Improving Context Representation in Semantic Segmentation](https://arxiv.org/abs/1804.06242)
   - Chen-Wei Xie, Hong-Yu Zhou, Jianxin Wu, *1804*
@@ -58,13 +58,10 @@
   - Jinjiang Guo, Pengyuan Ren, Aiguo Gu, Jian Xu, Weixin Wu, *1802*
 - [Learning to Adapt Structured Output Space for Semantic Segmentation](https://arxiv.org/abs/1802.10349) [[`pytorch`]](https://github.com/wasidennis/AdaptSegNet)
   - Yi-Hsuan Tsai, W.-C. Hung, S. Schulter, K. Sohn, `Ming-Hsuan Yang`, M. Chandraker, *CVPR spotlight/1802*
-
 - [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746) [[`PyTorch`]](https://github.com/ternaus/TernausNet)
   - Vladimir Iglovikov, Alexey Shvets, *1801* 
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
   - Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen, *1801*
-<!-- - End-to-end Detection-Segmentation Network With ROI Convolution 
-  - 2018 <Paper> -->
 - [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation](https://github.com/XiaohangZhan/mix-and-match/) [[`caffe`]](https://github.com/XiaohangZhan/mix-and-match/)
   -  Xiaohang Zhan, Ziwei Liu, Ping Luo, Xiaoou Tang, Chen Change Loy, *AAAI/1712*
 - [Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training](https://arxiv.org/abs/1810.07911) [[`mxnet`]](https://github.com/yzou2/cbst)
